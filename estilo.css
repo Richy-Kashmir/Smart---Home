@@ -262,8 +262,14 @@ flex: 1;
     }
 
    .img-apartado {
-    width: 20%;
-    height: 10%;
+    width: 20% !important;
+    height: 10% !important;
+    object-fit: cover;
+    border-radius: 10%;
+}
+.img-apartado2 {
+    width: 40%;
+    height: 20%;
     object-fit: cover;
     border-radius: 10%;
 }
