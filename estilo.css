@@ -57,6 +57,14 @@ body {
   min-height: 100vh;
 }
 
+.pagina {
+  min-height: 100vh;
+  background: var(--surface-color);
+  color: var(--text-color-main);
+}
+
+
+
 .card {
   background: var(--card-bg);
 }
@@ -86,6 +94,7 @@ header {
   color: white;
   font-weight: 700;
   font-size: 1.5rem;
+  color: var(--text-color-main);
 }
 
 .logo-img {
