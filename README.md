@@ -12,8 +12,10 @@ Este proyecto presenta una interfaz moderna, minimalista y visualmente atractiva
 # Características principales
 ✅ Diseño moderno y futurista
 La página destaca una estética elegante con un estilo oscuro, tarjetas redondeadas y una imagen central de una casa futurista ubicada entre árboles.
+<br>
 ✅ Sección informativa
 Incluye un apartado llamado "Cómo hacer una casa inteligente", con explicaciones sobre los beneficios y facilidad de integrar dispositivos inteligentes en el hogar.
+<br>
 ✅ Panel de dispositivos
 El sitio cuenta con un tablero organizado que presenta tres categorías principales:
 
