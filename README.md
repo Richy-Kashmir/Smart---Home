@@ -33,3 +33,15 @@ La página contiene botones superiores para:
 Inicio
 Productos
 Contacto
+
+<br>
+
+----------------------------------------------------------------
+# Figma
+
+https://www.figma.com/design/l2qVNWBwes0ZGmpgFjf88p/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=2aYrs7rdWq9NBDja-0
+
+<br>
+
+<img width="552" height="547" alt="Captura de pantalla 2026-03-24 161552" src="https://github.com/user-attachments/assets/6077c92c-6613-44b8-86f0-e5c90362daf0" />
+
