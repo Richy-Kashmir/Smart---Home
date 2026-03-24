@@ -173,26 +173,21 @@ header {
 
 .hero {
   display: grid;
-  gap: var(--space-lg);
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: stretch;
 }
 
 .hero-image {
   width: 100%;
   border: 50%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 1.5rem
 }
 
 .imagen{
   border-radius: 10%;
-}
-
-.hero-image-placeholder {
-  background: linear-gradient(135deg, var(--accent-color), var(--accent-color-strong));
-  border-radius: var(--radius-lg);
-  padding: var(--space-xl);
-  color: var(--text-color-main);
-  text-align: center;
-  font-size: var(--font-size-lg);
-  border: 1px solid var(--color-border-strong);
 }
 
 .hero-content {
@@ -201,6 +196,10 @@ header {
   padding: var(--space-lg);
   box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
   border: 1px solid var(--color-border-strong);
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
 }
 
 .hero-title {
@@ -223,6 +222,7 @@ header {
   margin: 0 0 var(--space-md);
   font-size: var(--font-size-xl);
   color: var(--color-white);
+  text-align: center;
 }
 
 .dashboard-grid {
@@ -262,10 +262,10 @@ flex: 1;
     }
 
    .img-apartado {
-    width: 20% !important;
-    height: 10% !important;
+    width: 10rem;
+    height: 10rem;
     object-fit: cover;
-    border-radius: 10%;
+    border-radius: 1rem;
 }
 .img-apartado2 {
     width: 40%;
